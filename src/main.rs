@@ -24,7 +24,7 @@ use bsp::hal::{
     watchdog::Watchdog,
 };
 use wii_ext::classic::Classic;
-use wii_ext::nunchuk::Nunchuk;
+// use wii_ext::nunchuk::Nunchuk;
 
 #[entry]
 fn main() -> ! {
